@@ -1,16 +1,19 @@
-### Hi there 👋
+### ¡Hola! Soy Heyme Coraspe👋
 
-<!--
-**HeymeCoraspe/HeymeCoraspe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estoy buscando mi primer empleo IT :)
 
-Here are some ideas to get you started:
+Soy desarrolladora y diseñadora Front End trainee. 
+<br>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/000000/html-5.png" alt="html-5"/>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/css3.png" alt="css3"/>
+<img width="48" height="48" src="https://img.icons8.com/pulsar-color/48/000000/javascript.png" alt="javascript"/>
+<hr>
+<br>
+MERN en formacion
+<br>
+<img width="24" height="24" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo.png" alt="external-mongodb-a-cross-platform-document-oriented-database-program-logo-filled-tal-revivo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/express-js.png" alt="express-js"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>
+ 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
