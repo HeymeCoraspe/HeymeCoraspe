@@ -6,6 +6,8 @@ Soy desarrolladora y diseñadora Front End trainee.
 
 MERN en formación.
 
+PLUS: python, pl/sql
+
 
 
 
